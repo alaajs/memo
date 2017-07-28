@@ -1,21 +1,3 @@
-# [x7bot](https://telegram.me/bothu)
-
-**An advanced and powerful administration bot based on NEW TG-CLI
-
-
-* * *
-
-## Commands
-
-| Use help |
-|:--------|:------------|
-| [#!/]help | just send help in your group and get the commands |
-
-**You can use "#", "!", or "/" to begin all commands
-
-
-###A NEW BOT IN TELEGREM AND THE BEST
-* * *
 
 # التنصيب
 
