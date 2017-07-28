@@ -23,15 +23,15 @@ git clone https://github.com/alaajs/memo.git
 
 cd memo
 
-chmod +x memo.sh
+chmod +x x7bot.sh
 
-./memo.sh install
+./x7bot.sh install
 
-./memo.sh
+./x7bot.sh
 
 لتنصيب البوـب بكوَدَ واحد فقط َ
 
-git clone https://github.com/alaajs/memo.git && cd memo && chmod +x memo.sh && ./memo.sh install && ./memo.sh
+git clone https://github.com/alaajs/memo.git && cd memo && chmod +x x7bot.sh && ./x7bot.sh install && ./x7bot.sh
 
 # Enter a phone number & confirmation cod
 
