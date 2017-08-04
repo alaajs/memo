@@ -3,8 +3,8 @@
 
 git clone https://github.com/alaajs/memo.git
 
-cd memo
-
+ cd new_x7bot
+ 
 chmod +x x7bot.sh
 
 ./x7bot.sh install
@@ -15,10 +15,6 @@ chmod +x x7bot.sh
 
 ./x7bot.sh
 
-لتنصيب البوـب بكوَدَ واحد فقط َ
-
-git clone https://github.com/alaajs/memo.git && cd memo && chmod +x x7bot.sh && ./x7bot.sh install && ./x7bot.sh && ./x7bot.sh install
- && ./x7bot.sh
 
 # Enter a phone number & confirmation cod
 
